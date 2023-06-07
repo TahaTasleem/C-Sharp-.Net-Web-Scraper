@@ -1,0 +1,7 @@
+C:\Users\mtaha\source\repos\k190206_Q1\k190206_Q1\bin\Debug\k190206_Q1.exe.config
+C:\Users\mtaha\source\repos\k190206_Q1\k190206_Q1\bin\Debug\k190206_Q1.exe
+C:\Users\mtaha\source\repos\k190206_Q1\k190206_Q1\bin\Debug\k190206_Q1.pdb
+C:\Users\mtaha\source\repos\k190206_Q1\k190206_Q1\obj\Debug\k190206_Q1.csproj.AssemblyReference.cache
+C:\Users\mtaha\source\repos\k190206_Q1\k190206_Q1\obj\Debug\k190206_Q1.csproj.CoreCompileInputs.cache
+C:\Users\mtaha\source\repos\k190206_Q1\k190206_Q1\obj\Debug\k190206_Q1.exe
+C:\Users\mtaha\source\repos\k190206_Q1\k190206_Q1\obj\Debug\k190206_Q1.pdb

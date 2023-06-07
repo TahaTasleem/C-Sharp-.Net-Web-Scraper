@@ -1,0 +1,10 @@
+C:\Users\mtaha\source\repos\k190206_Q3\k190206_Q3\bin\Debug\k190206_Q3.exe.config
+C:\Users\mtaha\source\repos\k190206_Q3\k190206_Q3\bin\Debug\k190206_Q3.exe
+C:\Users\mtaha\source\repos\k190206_Q3\k190206_Q3\bin\Debug\k190206_Q3.pdb
+C:\Users\mtaha\source\repos\k190206_Q3\k190206_Q3\obj\Debug\k190206_Q3.csproj.AssemblyReference.cache
+C:\Users\mtaha\source\repos\k190206_Q3\k190206_Q3\obj\Debug\k190206_Q3.Form1.resources
+C:\Users\mtaha\source\repos\k190206_Q3\k190206_Q3\obj\Debug\k190206_Q3.Properties.Resources.resources
+C:\Users\mtaha\source\repos\k190206_Q3\k190206_Q3\obj\Debug\k190206_Q3.csproj.GenerateResource.cache
+C:\Users\mtaha\source\repos\k190206_Q3\k190206_Q3\obj\Debug\k190206_Q3.csproj.CoreCompileInputs.cache
+C:\Users\mtaha\source\repos\k190206_Q3\k190206_Q3\obj\Debug\k190206_Q3.exe
+C:\Users\mtaha\source\repos\k190206_Q3\k190206_Q3\obj\Debug\k190206_Q3.pdb
